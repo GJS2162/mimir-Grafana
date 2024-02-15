@@ -31,6 +31,17 @@ kubectl port-forward -n mimir-test svc/mimir-distributor 8080:8080
 ```
 ## Now i need to Configure Grafana Agent to write to Grafana Mimir
 
+## Before that lets recreate a connection and check that are we getting any data:
+
+Follow the given steps : 
+![My animated logo](screenshots/1.png)
+![My animated logo](screenshots/2.png)
+![My animated logo](screenshots/3.png)
+![My animated logo](screenshots/4.png)
+![My animated logo](screenshots/5.png)
+![My animated logo](screenshots/6.png)
+![My animated logo](screenshots/7.png)
+![My animated logo](screenshots/8.png)
 
 ## Contributing
 
