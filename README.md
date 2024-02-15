@@ -40,7 +40,7 @@ Follow the given steps :
 ![My animated logo](screenshots/4.png)
 ![My animated logo](screenshots/5.png)
 ![My animated logo](screenshots/6.png)
-![My animated logo](screenshots/7.png)
+![My animated logo](screenshots/70.png)
 ![My animated logo](screenshots/80.png)
 
 ## Contributing
